@@ -1,0 +1,11 @@
+.back-hot {
+    background: url(../images/hot.jpg);
+}
+
+.back-mild {
+    background: url(../images/mild.jpg);
+}
+
+.back-cold {
+    background: url(../images/cold.jpg);
+}
